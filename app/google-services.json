@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "137781608666",
+    "project_id": "citas-23b9f",
+    "storage_bucket": "citas-23b9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137781608666:android:584b46439ca6ae597b25e3",
+        "android_client_info": {
+          "package_name": "com.example.citasuamdos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6AdhdN8MVD1KK2-0g7d08fK83VvYaTsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

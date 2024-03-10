@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CitasUamDos</string>
+
+    //Home variables
+    <string name="btn_public_home">Publicar servicio</string>
+    <string name="btn_services_home">Ver servicios</string>
+
+    // Create service variables
+    <string name="header_create">Publica tu servicio</string>
+    <string name="tv_service_request_create">¿Qué servicio ofreces?</string>
+    <string name="tv_name_request_create">¿Cuál es tu nombre?</string>
+    <string name="tv_phone_request_create">¿Cuál es tu número de teléfono?</string>
+    <string name="tv_description_request_create">Agrega una descripción o promoción de tu servicio</string>
+    <string name="btn_public_create">PUBLICAR</string>
+
+</resources>
